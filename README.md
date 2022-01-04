@@ -44,7 +44,7 @@
 # 2.Feature Processing 
 ## 2.1 Traditional feature extraction methods for omics data in omics-imaging fusion
 #### -Gene expression (mRNA expression)
-- **EdgeR: Differential expression genes (DEGs) analysis.**  *[M. D. Robinson, D. J. McCarthy, and G. K. Smyth, “edgeR: a Bioconductor package for differential expression analysis of digital gene expression data,” Bioinformatics, vol. 26, no. 1, pp. 139–140, 2010.](https://pubmed.ncbi.nlm.nih.gov/19910308/)
+- **EdgeR: Differential expression genes (DEGs) analysis.**  *[M. D. Robinson, D. J. McCarthy, and G. K. Smyth, “edgeR: a Bioconductor package for differential expression analysis of digital gene expression data,” Bioinformatics, vol. 26, no. 1, pp. 139–140, 2010.](https://pubmed.ncbi.nlm.nih.gov/19910308/)*
 - **[DESeq2](http://www.bioconductor.org/packages/release/bioc/html/DESeq2.html): Differential expression genes (DEGs) analysis.**  *[ Love M, Huber W, Anders S. Moderated estimation of fold change and dispersion for RNA-Seq data with DESeq2. Genome Biology. 2014;](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8)*
 -  **WGCNA: Gene coexpression network analysis (GCNA).** *[P. Langfelder and S. Horvath, “WGCNA: an R package for weighted correlation network analysis,” BMC bioinformatics, vol. 9, no. 1, p. 559, 2008.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-559)*
 -   **lmQCM: Gene coexpression network analysis (GCNA).** *[J. Zhang and K. Huang, “Normalized imqcm: An algorithm for detecting weak quasi-cliques in weighted graph with applications in gene co-expression module discovery in cancers,” Cancer informatics, vol. 13, p. CIN. S14021, 2014.](https://pubmed.ncbi.nlm.nih.gov/27486298/)*
